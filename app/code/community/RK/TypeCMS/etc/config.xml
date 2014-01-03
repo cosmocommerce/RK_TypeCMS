@@ -2,7 +2,11 @@
 <config>
     <modules>
         <RK_TypeCMS>
+<<<<<<< HEAD
             <version>1.0.0</version>
+=======
+            <version>2.0.4</version>
+>>>>>>> a021223... Bump version to 2.0.4 and update changelog
         </RK_TypeCMS>
     </modules>
     <global>
